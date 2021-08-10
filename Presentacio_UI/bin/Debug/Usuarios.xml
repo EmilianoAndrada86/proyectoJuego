@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Usuarios>
+  <Usuario id="1" estado="0">
+    <NombreUsuario>EmiLug</NombreUsuario>
+    <Nombre>Emiliano</Nombre>
+    <Apellido>Andrada</Apellido>
+    <DNI>32488506</DNI>
+    <Email>emilianoandrada@uai.com</Email>
+    <localidad>Hurlingham</localidad>
+  </Usuario>
+</Usuarios>

@@ -1,0 +1,22 @@
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\MPP\obj\Debug\MPP.csprojAssemblyReference.cache
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\MPP\obj\Debug\MPP.csproj.CoreCompileInputs.cache
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\MPP\bin\Debug\MPP.dll.config
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\MPP\bin\Debug\MPP.dll
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\MPP\bin\Debug\MPP.pdb
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\MPP\obj\Debug\MPP.dll
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\MPP\obj\Debug\MPP.pdb
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\MPP\bin\Debug\BE.dll
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\MPP\bin\Debug\BE.pdb
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\MPP\bin\Debug\BE.dll.config
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\MPP\obj\Debug\MPP.csproj.CopyComplete
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\MPP\obj\Debug\MPP.csprojAssemblyReference.cache
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\MPP\obj\Debug\MPP.csproj.CoreCompileInputs.cache
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\MPP\obj\Debug\MPP.dll
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\MPP\obj\Debug\MPP.pdb
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\MPP\bin\Debug\MPP.dll.config
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\MPP\bin\Debug\MPP.dll
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\MPP\bin\Debug\MPP.pdb
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\MPP\bin\Debug\BE.dll
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\MPP\bin\Debug\BE.pdb
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\MPP\bin\Debug\BE.dll.config
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\MPP\obj\Debug\MPP.csproj.CopyComplete

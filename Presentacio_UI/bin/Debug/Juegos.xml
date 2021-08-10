@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Juegos>
+  <Juego id="1">
+    <Nombre>Piedra Papel Tijera</Nombre>
+  </Juego>
+  <Juego id="2">
+    <Nombre>TA TET I</Nombre>
+  </Juego>
+</Juegos>

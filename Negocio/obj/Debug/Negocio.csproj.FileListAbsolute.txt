@@ -1,0 +1,28 @@
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\Negocio.dll
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\obj\Debug\Negocio.dll
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\BE.dll
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\MPP.dll
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\BE.pdb
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\BE.dll.config
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\MPP.pdb
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\MPP.dll.config
+C:\Users\Emili\source\repos\EP2_LUG_Andrada_Emiliano\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\Negocio.dll
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\BE.dll
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\MPP.dll
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\BE.pdb
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\BE.dll.config
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\MPP.pdb
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\bin\Debug\MPP.dll.config
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\obj\Debug\Negocio.dll
+C:\Users\Emili\Desktop\Entrega LUG\EP2_LUG_Andrada_Emiliano\Negocio\obj\Debug\Negocio.pdb
